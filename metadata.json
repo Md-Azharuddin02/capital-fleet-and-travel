@@ -1,0 +1,6 @@
+{
+  "name": "CAPITAL FLEET & TRAVELS",
+  "description": "Premium travel booking platform for flights, buses, car rentals in Delhi NCR, PAN India coach charters, and rail ticketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
